@@ -72,7 +72,7 @@ export default function Home() {
           <div className="flex-shrink-0 max-md:hidden">
             <img
               className="w-64 rounded-full"
-              src="https://i.ibb.co/Jq0M7hW/1000038608.jpg"
+              src="https://i.ibb.co/LzcC4yMF/upscalemedia-transformed-2.png"
               alt="Ruan Victor profile"
             />
           </div>
