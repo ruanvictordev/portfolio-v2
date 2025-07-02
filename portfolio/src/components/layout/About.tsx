@@ -12,7 +12,7 @@ export default function About() {
           <div className="hidden max-md:block w-full">
             <img
               className="rounded-full mx-auto max-w-[250px]"
-              src="https://i.ibb.co/Jq0M7hW/1000038608.jpg"
+              src="https://i.ibb.co/LzcC4yMF/upscalemedia-transformed-2.png"
               alt="Ruan Victor profile"
             />
           </div>
